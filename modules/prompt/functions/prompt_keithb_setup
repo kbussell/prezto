@@ -28,7 +28,7 @@ function calc_elapsed_time {
 }
 
 CURRENT_BG='NONE'
-SEGMENT_SEPARATOR='⮀'
+SEGMENT_SEPARATOR='\ue0b0'
 
 
 # Begin a segment

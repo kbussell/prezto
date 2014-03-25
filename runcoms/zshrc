@@ -13,3 +13,5 @@ fi
 # Customize to your needs...
 source ~/bin/tcdcenv.zsh
 export PATH=$PATH:/Users/kbussell/bin
+
+alias mmv='noglob zmv -W'
